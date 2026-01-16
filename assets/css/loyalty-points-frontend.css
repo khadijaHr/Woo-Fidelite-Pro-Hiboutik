@@ -1,0 +1,14 @@
+/* Styles pour le panier (frontend) */
+.shopengine-table__body-item--td.product-name {
+    display: flex;
+    align-content: flex-start;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+button.button.appliquer-offert, 
+button.button.show-qty-selector, 
+button.button.appliquer-offert-simple {
+    background: #FFC107;
+}
+
